@@ -1,0 +1,81 @@
+---
+title: "Help Us in the Fight Against Misinformation"
+subtitle: "An Open Letter to the Senior Administration @ U of G"
+date: "09/07/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# DRAFT
+
+Since the beginning of the COVID-19 pandemic, scientists have taken an increasingly prominent role in the average Canadian’s day-to-day life. As we each look to make decisions to best protect ourselves, our loved ones, and our communities, we turn to experts in our healthcare and public health systems – and at our universities – to guide us by providing their interpretation of the best available scientific evidence.  
+
+As public health researchers and students, it is out job to sift through this evidence, to use our knowledge and experience to evaluate its quality, and to distill our findings into recommendations for Canadians. As scientists, we regularly engage in intense debates over these ideas – debates that are a cornerstone of scientific discovery.   Sometimes, we have strong disagreements. Nonetheless, we engage passionately in these debates, knowing this process is protected by the University of Guelph’s freedom of expression policy, which safeguards “the ability to examine, question, critique, investigate, inquire, speculate and communicate on issues without deference to prescribed doctrine”.
+
+The  privilege of academic freedom comes with important responsibilities. In the era of social media, we must recognize that these scientific debates are taking place in the public   eye.   We therefore have a responsibility to provide the public with sufficient context for our claims, such that the public understands  the quality of the evidence we provide, and the agreement of our claims with scientific consensus.  Absent this context   , these claims lead to confusion, not clarity; credentialism, not consensus; and combativeness, not collaboration.
+
+Recently, we have become aware of alarmist claims related to the COVID-19 vaccine made by Dr. Byram Bridle, an immunologist at the Ontario Veterinary College at University of Guelph.  In brief, these claims include the assertion that the spike proteins produced by the vaccine are cytotoxic and as a result, these vaccines pose a significant health risk to those vaccinated,  to nursing infants,  to fertility, and  to the Canadian blood supply. 
+
+While we believe it is fully within their   right to make these claims, we also believe these claims are  strongly misleading, and were presented  in an irresponsible manner.   Given their rapid amplification on social media , these claims have now necessitated 10 separate fact-checks, all of which have concluded that they were either false or misleading. Moreover, one of the authors of the papers cited as a basis for these claims has directly rebutted these assertions. We have included references to these works and additional resources in the appendix to this letter.
+
+To their credit, the University of Guelph has released a generic statement on their website reaffirming its unequivocal support of vaccination. However, this is simply not enough, and not in the necessary format (or in the appropriate forum) to combat the proliferation of misinformation online and in social media.  When misinformation spreads on social media platforms – bolstered by the credibility and prestige of the University – it should be specifically addressed by the University on social media. The lack of response leads to the public’s assumption that these claims are supported by the University of Guelph, and may lead members of the public to make detrimental decisions which may negatively impact personal and public health.
+
+Moreover, in the absence of a sufficient response, it has fallen to individual scientists at the University of Guelph to spend a disproportionate amount of their own time fighting misinformation arising from these claims (see Brandolini's law   ). And by doing so, they have faced public claims of harassment, threats of lawsuits, and have become targets of online hate – fueled by claims of censorship on national television (which further erodes public trust in our scientific institutions and processes).
+
+The University of Guelph can, should, and must do more to combat misinformation. Especially when that misinformation originateds locally, and especially when they have given the author a platform to make similar claims in the past  . To that end, we ask that the University of Guelph:
+
+-	Elevate the voices of fact-checkers by providing them a platform in the University’s news and publications, and promote their works via the University’s social media accounts
+-	Establish policies to protect fact-checkers against spurious legal claims and claims of harassment, and demonstrate a clear willingness to stand by these policies or protections in future
+-	Commit to amplifying the University’s position on matters relevant to public health during this public health crisis via the University’s social media accounts 
+
+Our motto at U of G is to Improve Life. The University should be embracing and utilizing the resources they have available – their researchers and students – to fight misinformation   and further improve the lives of Canadians during the pandemic. 
+
+
+
+
+</br>
+</br>
+
+# Appendix
+
+***
+
+### Platforms provided to Dr. Bridle by the University of Guelph
+
+- OVC News (2020-06-17) [Fast COVID-19 vaccine timelines are unrealistic and put the integrity of scientists at risk](https://ovc.uoguelph.ca/news/fast-covid-19-vaccine-timelines-are-unrealistic-and-put-integrity-scientists-risk).
+- UofG News (2020-11-19) [U of G Immunologist Has Concerns Over COVID-19 Vaccine Candidates](https://news.uoguelph.ca/2020/11/u-of-g-viral-immunologist-has-concerns-over-new-covid-19-vaccine-candidates/).
+- UofG News (2021-03-12) [Immunologist Pens Commentary on Kids’ Health in COVID-19](https://news.uoguelph.ca/2021/03/immunologist-pens-commentary-on-kids-health-in-covid-19/).
+
+### Fact-checks related to Dr. Bridle's claims
+
+- USA Today (2021-06-08) [Fact check: COVID-19 vaccines don't produce dangerous toxins](https://www.usatoday.com/story/news/factcheck/2021/06/08/fact-check-proteins-covid-19-vaccines-arent-dangerous-toxins/7505236002/).
+- Health Feedback (2021-06-08) [Byram Bridle’s claim that COVID-19 vaccines are toxic fails to account for key differences between the spike protein produced during infection and vaccination, misrepresents studies](https://healthfeedback.org/claimreview/byram-bridles-claim-that-covid-19-vaccines-are-toxic-fails-to-account-for-key-differences-between-the-spike-protein-produced-during-infection-and-vaccination-misrepresents-studies/).
+- AP News (2021-06-09) [Spike protein produced by vaccine not toxic](https://apnews.com/article/fact-checking-377989296609).
+- AFP Fact Check (2021-05-13) [Posts misrepresent US study on dangers of coronavirus spike protein](Posts misrepresent US study on dangers of coronavirus spike protein).
+- Reuters (2021-06-15) [Fact Check -- No evidence spike proteins from COVID-19 vaccines are toxic](https://www.reuters.com/article/factcheck-vaccine-safe-idUSL2N2NX1J6).
+- PolitiFact (2021-06-16) [No sign that the COVID-19 vaccines’ spike protein is toxic or ‘cytotoxic’](https://www.politifact.com/factchecks/2021/jun/16/youtube-videos/no-sign-covid-19-vaccines-spike-protein-toxic-or-c/).
+- PolitiFact (2021-06-17) [No sign spike proteins from COVID-19 vaccines, including Novavax, are dangerous](https://www.politifact.com/factchecks/2021/jun/17/facebook-posts/no-sign-spike-proteins-covid-19-vaccines-including/).
+- Full Fact (2021-06-17) [Claims that Covid vaccine spike proteins are harmful are unevidenced](https://fullfact.org/online/conservative-woman-vaccine-scientist-spike-protein/).
+- AFP Factenckeck (in German) (2021-06-17) [Dieser Professor verbreitet falsche Informationen über die Folgen von Corona-Impfungen](https://faktencheck.afp.com/http%253A%252F%252Fdoc.afp.com%252F9CE6WH-1).
+
+### More Resources
+
+#### Addresing claims that the spike proteins produced by the body in response to the vaccine are cytotoxic
+
+Will be added.
+
+#### Addressing claims that the vaccines may negatively affect fertility
+
+Will be added.
+
+</br>
+</br>
+
+# Signatures in Support of this Letter
+
+Will be added.
+
+
