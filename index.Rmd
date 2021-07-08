@@ -1,6 +1,6 @@
 ---
 title: "Help Us in the Fight Against Misinformation"
-subtitle: "An Open Letter to the Senior Administration @ U of G"
+subtitle: "An Open Letter to the Senior Administration @ the University of Guelph"
 date: "09/07/2021"
 output: html_document
 ---
@@ -74,8 +74,10 @@ Will be added.
 </br>
 </br>
 
-# Signatures in Support of this Letter
+# Signatures
 
-Will be added.
+[Sign the Letter Here](https://uoguelph.eu.qualtrics.com/jfe/form/SV_5ig6pPdprXSQjxs)
+
+Signatures Will be added shortly.
 
 
