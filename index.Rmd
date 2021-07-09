@@ -2,6 +2,8 @@
 title: "Help Us in the Fight Against Misinformation"
 subtitle: "An Open Letter to the Senior Administration @ the University of Guelph"
 date: "09/07/2021"
+bibliography: refs.bib
+csl: american-medical-association.csl
 output: html_document
 ---
 
@@ -37,11 +39,11 @@ Signed,
 
 -	Brennan Chapman
 -	Amar Laila
--	Sarah Hill
+- Sarah Hill
 -	Wendy Xie
 -	Catherine Belanger 
 
-
+See more signatories below.
 
 </br>
 </br>
@@ -50,7 +52,11 @@ Signed,
 
 ***
 
-### Platforms provided to Dr. Bridle by the University of Guelph
+
+
+## {.tabset}
+
+### Previous U of G Platforms
 
 - OVC News (2020-06-17) [Fast COVID-19 vaccine timelines are unrealistic and put the integrity of scientists at risk](https://ovc.uoguelph.ca/news/fast-covid-19-vaccine-timelines-are-unrealistic-and-put-integrity-scientists-risk).
 - UofG News (2020-11-19) [U of G Immunologist Has Concerns Over COVID-19 Vaccine Candidates](https://news.uoguelph.ca/2020/11/u-of-g-viral-immunologist-has-concerns-over-new-covid-19-vaccine-candidates/).
@@ -60,18 +66,22 @@ Signed,
 
 The main premise behind Dr. Bridle’s claims is that the spike proteins that are produced by cells from the mRNA sequence are cytotoxic. He also claims that the spike protein is distributed throughout the body and accumulates in organs. He claims that as a result of the cytotoxicity and distribution of the spike protein, the COVID-19 vaccines can cause damage to organs (including the brain and ovaries), leading to brain damage and infertility. In addition, he claims the spike protein may be transmitted through breastmilk and harm the infant.
 
-These claims have already been debunked by several sources (see below), even by the authors of one of the papers he cites 1. To summarize these rebuttals:
+These claims have already been debunked by several sources (see below), even by the authors of one of the papers he cites [@Manor2021]. To summarize these rebuttals:
 
-- Some of the studies cited were misrepresented. For example, Lei et al. 2 show the SARS-CoV-2 virus’s spike protein alone can damage the endothelium, but the amount of spike protein produced from vaccination is many thousands of times lower 3.
-- The spike protein encoded is modified to have a transmembrane protein, which keeps the spike proteins anchored to cells at the site of injection 4. 
-- Only 0.095% and 0.074% of the injected lipid nanoparticles (a marker for the vaccine – not the spike protein as claimed) appear in rat ovaries and testicles respectively 5.
-- Several studies have shown no effect of COVID-19 vaccines on fertility or pregnancy outcomes 6–11.
-- Several studies have reported on the safety of these approved vaccines, including general vaccine recipients 12,13, in recovered COVID-19 patients 14, and in phase 3 trials 15,16.
+- Some of the studies cited were misrepresented. For example, Lei et al. [-@Lei2021] show the SARS-CoV-2 virus’s spike protein alone can damage the endothelium, but the amount of spike protein produced from vaccination is many thousands of times lower [@Ogata2021].
+- The spike protein encoded is modified to have a transmembrane protein, which keeps the spike proteins anchored to cells at the site of injection [@Lowe2021]. 
+- Only 0.095% and 0.074% of the injected lipid nanoparticles (a marker for the vaccine – not the spike protein as claimed) appear in rat ovaries and testicles respectively [@PMDA2021].
+- Several studies have shown no effect of COVID-19 vaccines on fertility or pregnancy outcomes [@Golan2021; @Mattar2021; @Morris2021; @Safrai2021; @Safrai2021a; @Shanes2021].
+- Several studies have reported on the safety of these approved vaccines, including general vaccine recipients [@Mathioudakis2021; @Kataria2021], in recovered COVID-19 patients [@Arnold2021], and in phase 3 trials [@Baden2021; @Polack2020].
 - To summarize, he ignores multiple studies showing the safety of these vaccines and misrepresents pharmacokinetic studies, adding to a false narrative that the currently approved COVID-19 vaccines are harmful.
 
 
+### References
 
-### Fact-checks related to Dr. Bridle's claims
+<div id="refs"></div>
+
+
+### Fact-checks
 
 - AFP Fact Check (2021-05-13) [Posts misrepresent US study on dangers of coronavirus spike protein](https://factcheck.afp.com/posts-misrepresent-us-study-dangers-coronavirus-spike-protein).
 - USA Today (2021-06-08) [Fact check: COVID-19 vaccines don't produce dangerous toxins](https://www.usatoday.com/story/news/factcheck/2021/06/08/fact-check-proteins-covid-19-vaccines-arent-dangerous-toxins/7505236002/).
@@ -83,7 +93,7 @@ These claims have already been debunked by several sources (see below), even by 
 - Full Fact (2021-06-17) [Claims that Covid vaccine spike proteins are harmful are unevidenced](https://fullfact.org/online/conservative-woman-vaccine-scientist-spike-protein/).
 - AFP Factenckeck (in German) (2021-06-17) [Dieser Professor verbreitet falsche Informationen über die Folgen von Corona-Impfungen](https://faktencheck.afp.com/http%253A%252F%252Fdoc.afp.com%252F9CE6WH-1).
 
-
+## {-}
 
 </br>
 </br>
@@ -95,13 +105,5 @@ These claims have already been debunked by several sources (see below), even by 
 [Sign the Letter Here](https://uoguelph.eu.qualtrics.com/jfe/form/SV_5ig6pPdprXSQjxs)
 
 Signatures Will be added shortly.
-
-### Students, Faculty, and Alums of the University of Guelph
-
-
-### Students, Academics, Professionals
-
-
-### The Public
 
 
