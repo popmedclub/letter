@@ -104,6 +104,16 @@ These claims have already been debunked by several sources (see below), even by 
 
 [Sign the Letter Here](https://uoguelph.eu.qualtrics.com/jfe/form/SV_5ig6pPdprXSQjxs)
 
-Signatures Will be added shortly.
+```{r echo = FALSE}
+
+sigs <- read.csv("signatures_out.csv")
+
+knitr::kable(sigs,
+             col.names = c("Signatory", "Type"))
+
+```
+
+</br>
+</br>
 
 
